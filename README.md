@@ -3,4 +3,3 @@
 ## description de projet 
 ## nouveau commit-jeremie
 ## Jokzy: Mister Worldwide
-## sonIA: Miss Nationwide
