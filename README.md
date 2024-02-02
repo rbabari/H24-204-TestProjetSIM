@@ -1,9 +1,6 @@
 # H24-204-TestProjetSIM
  
 ## description de projet 
-mon projet bla bla .... 
-
-## ...
-
+## nouveau commit-jeremie
 ## Jokzy: Mister Worldwide
 ## sonIA: Miss Nationwide
