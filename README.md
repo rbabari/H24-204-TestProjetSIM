@@ -1,14 +1,12 @@
 # H24-204-TestProjetSIM
  
 ## description de projet 
-mon projet bla bla ...
-...
 
-...
+## Contribution par sonIA
 
-._.
-## ... 
-Contribution par sonIA
-
-nouveau commit-jeremie
+## nouveau commit-jeremie
 ## Jokzy: Mister Worldwide
+ Joe-El-Hachem
+
+## <font color="red"> Mr.Latreille </font> 
+<img .... 
